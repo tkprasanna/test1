@@ -1,8 +1,8 @@
-class hello1
+class hello2
 {
-	public static void main() 	#this is from wind-dev	
+	public static void main() 	#this is from linux-user
 	{
-		system.out.prinln("hello from wind-dev");
+		system.out.prinln("hello from linux-dev");
 	}
 		
 
